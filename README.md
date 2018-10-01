@@ -3,4 +3,7 @@
 
 This is the space to make comments!!!
 
+
+And this is the space to add coments a seconf time!!!
+
 Now that you all have a GitHub, you should fork and clone this repository to always be up-to-date with the class materials and assignments!!
